@@ -1,4 +1,4 @@
-module github.com/naxmefy/go_raylib_lab/firstwindow
+module github.com/naxmefy/go_raylib_lab
 
 go 1.23.4
 
